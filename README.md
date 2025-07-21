@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there! I'm Aly Bihmama
+# 👋 Hey there! I'm Aly B. Mama, Jr.
 ### 🚀 Full-Stack Developer | Problem Solver | Continuous Learner
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;React+%26+Next.js+Enthusiast;Always+Learning+New+Things;Building+Amazing+User+Experiences" alt="Typing SVG" />
