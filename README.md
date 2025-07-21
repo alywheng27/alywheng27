@@ -99,12 +99,20 @@ I'm a **dedicated web developer** with a passion for creating seamless digital e
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alywheng27&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alywheng27&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
-</div>
+  
+### 📈 GitHub Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=alywheng27&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=alywheng27&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alywheng27&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+### 💻 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alywheng27&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=445" alt="Top Languages" />
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=alywheng27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+
+### 📊 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alywheng27&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
 </div>
 
 ---
